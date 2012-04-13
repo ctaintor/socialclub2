@@ -16,12 +16,12 @@ SocialClub2's goals are as follows:
 * Provide some integration with Facebook and/or Google+ (scope still undecided).
 * Provide integration with PayPal or another payment system.
 
-# Technologies
+## Technologies
 * CakePHP has been chosen as the framework for SocialClub2, based on:
     * Written in PHP, therefore can be run on a myriad of cheap shared hosts
     * Ability to make use of existing plugins
     * Less need to write app-specific documentation!
 * MySQL
 
-# Help
+## Help
 Please contact @ctaintor if you'd like to help out
